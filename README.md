@@ -1,5 +1,8 @@
 # uri-issues
-URI issues and workarounds. 
+URI issues and workarounds. Trying something with building URI's and actually resolving them properly
+
+
+
 
 https://docs.oracle.com/javase/6/docs/api/java/net/URI.html#resolve%28java.net.URI%29 From the doc we get this line:
 A new URI is constructed with this URI's scheme and the given URI's query and fragment components. However if we try:
